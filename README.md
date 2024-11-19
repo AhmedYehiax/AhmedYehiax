@@ -96,4 +96,7 @@
 
 **Key Responsibilities:**
 - Developed mobile apps with high functionality, ensuring optimal user experience.
+## 🌍 Languages
+- **Arabic**: Native
+- **English**: Fluent
 
