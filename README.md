@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 💬 Ask me about: Mobile App Development, Flutter, Dart, Firebase<br>- 📫 Reach me at: Ahmed.y16@hotmail.com | +201122316466<br>- ⚡ Fun fact: I am passionate about creating efficient, high-performance mobile apps!</p>
+<p align="left">- 💬 Ask me about: Mobile App Development, Flutter, Dart, Firebase<br>- 📫 Reach me at: **Ahmed.y16@hotmail.com** | +201122316466<br>- ⚡ Fun fact: I am passionate about creating efficient, high-performance mobile apps!</p>
 
 ###
 
