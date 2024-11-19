@@ -88,3 +88,12 @@
 <p align="left">🏫 Bachelor's Degree in Computer Science</p>
 
 ###
+## 💼 Experience
+
+### 🧑‍💻 Android Apps Developer Intern
+**Digital Egypt Pioneers Initiative** · Cairo, Egypt  
+*2023 - 2024*
+
+**Key Responsibilities:**
+- Developed mobile apps with high functionality, ensuring optimal user experience.
+
